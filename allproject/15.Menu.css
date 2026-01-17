@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding-left: 0px;
+}
+.Menu {
+    background-color: rgb(15, 83, 143);
+    padding: 10px;
+    text-align: center;
+}
+.Menu a {
+    color: aqua;
+    text-decoration: none;
+    margin: 50px;
+    border-radius: 4px;
+    padding: 8px 12px;
+}
+.Menu a:hover {
+background-color: blueviolet;
+
+}
