@@ -1,0 +1,15 @@
+body {
+    box-shadow: inset;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.gallery img {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    border: 2px rgb(133, 18, 133);
+}
+.footer{
+    background-color: blue;
+    padding: 16px;
+}
