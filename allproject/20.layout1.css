@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    color: brown;
+}
+.header{
+    background-color:gray;
+    padding: 20px 0;
+}
+.menu{
+    padding: 10px 0;
+    background-color: mediumaquamarine;
+}
+.Left {
+    height: 400px;
+    float: left;
+    width: 20%;
+    background-color: red;
+}
+.content{
+    width: 40%;
+    float: left;
+  background-color: blue;
+  height: 400px;
+}
+
+.Right{
+    height: 400px;
+    float: left;
+    width: 20%;
+    background-color: rgb(88, 55, 119);
+}
+.footer{
+    clear: both;
+    padding:20PX 0;
+    background-color: mediumaquamarine;
+}
