@@ -1,14 +1,11 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial;
 }
-.container {
-    display: flex;
-    grid-template-columns: 
-    "header header header"
-    "side bar content 1 content 1"
-    "side bar content 2 content 3"
-    "footer footer footer";
-    grid-template-columns: 1fr 2fr 2fr;
+
+/* Header */
+.header {
+    height: 80px;
 }
